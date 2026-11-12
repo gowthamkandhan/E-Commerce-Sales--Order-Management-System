@@ -14,7 +14,6 @@ WHERE price > (
     FROM Products
 );
 
-
 -- 2. CORRELATED SUBQUERY
 -- Find customers who have placed more than one order
 

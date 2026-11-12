@@ -48,7 +48,6 @@ SELECT
 FROM Order_Details
 GROUP BY order_id;
 
-
 -- 7. HAVING
 -- Display orders whose total amount is above 10000
 

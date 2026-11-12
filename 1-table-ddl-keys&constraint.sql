@@ -50,7 +50,6 @@ CREATE TABLE Orders (
         )
 );
 
-
 CREATE TABLE Order_Details (
     order_id INT,
     product_id INT,
